@@ -8,7 +8,7 @@ public class Variables {
         double B =  30.6663261;
 
         System.out.println("Duke");
-        System.out.println("широта" + A);
-        System.out.println("довгота" + B);
+        System.out.println("широта " + A);
+        System.out.println("довгота " + B);
     }
 }
